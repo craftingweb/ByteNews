@@ -1,5 +1,11 @@
 const ArchivePage = () => {
-  return <h1>Archive Page</h1>;
+  return (
+    <header id="archive-header">
+      <nav>
+        <ul></ul>
+      </nav>
+    </header>
+  );
 };
 
 export default ArchivePage;
